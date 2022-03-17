@@ -1,0 +1,28 @@
+body
+{
+    font-family: 'Roboto Mono', monospace;
+    background:grey;
+}
+
+.header_div
+{
+    background:white;
+    color:black;
+}
+
+.header_div p{
+    font-family: 'Roboto Mono', monospace;
+    color: gray
+    letter-spacing: 2px;
+    font-size: 12px;
+    font_weight: bold;
+}
+.copy_right_footer {
+    position: fixed;
+    color: grey;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: white;
+    text-shadow:5px 5px 5px rgb(151, 149, 149);
+}
